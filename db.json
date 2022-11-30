@@ -26,9 +26,7 @@
     }
   ],
   "profile": {
-    "name": "typicode"
-  },
-  "kmcDemo":{
+    "name": "kmcDemo",
     "dueDate":"2023/04/23"
-  }
+  } 
 }
