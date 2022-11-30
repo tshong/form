@@ -27,6 +27,7 @@
   ],
   "profile": {
     "name": "kmcDemo",
-    "dueDate":"2023/04/23"
+    "dueDate":"2023/04/23",
+    "factoryType":"A廠區"
   } 
 }
