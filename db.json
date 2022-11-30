@@ -28,6 +28,7 @@
   "profile": {
     "name": "kmcDemo",
     "dueDate":"2023/04/23",
-    "location":"A廠區"
+    "factory":"A廠區",
+    "location":"儲槽區及罐裝區"
   } 
 }
