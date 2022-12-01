@@ -26,8 +26,12 @@
     }
   ],
   "profile": {
+    "eventId":"22LE006",
+    "occuredDate":"2022/08/24",
+    "occuredTime":"08:45",
     "name": "kmcDemo",
     "dueDate":"2023/04/23",
+    "informDate":"2022/09/02",
     "factory":"全廠區",
     "location":"儲槽區及罐裝區",
     "handler":"1404 陳志明"
