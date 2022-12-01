@@ -29,6 +29,7 @@
     "name": "kmcDemo",
     "dueDate":"2023/04/23",
     "factory":"A廠區",
-    "location":"儲槽區及罐裝區"
+    "location":"儲槽區及罐裝區",
+    "handler":"梁國明"
   } 
 }
